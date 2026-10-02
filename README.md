@@ -23,7 +23,7 @@ Currently studying **Data Engineering at Makara UI Academy** (2026).
 | **Programming** | Python (Pandas, NumPy, Scikit-learn, XGBoost, SciPy, Matplotlib, Seaborn), Google Colab |
 | **BI & Dashboard** | Power BI, Tableau, Looker Studio |
 | **Analytics & ML** | RFM Analysis, K-Means, Logistic Regression, XGBoost, Chi-square, t-test, Spearman |
-| **Marketing** | Excel, SQL, Python, Looker studio |
+| **Marketing** | Excel, SQL, Python, Tableau |
 
 ---
 
