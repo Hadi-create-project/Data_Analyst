@@ -1,7 +1,4 @@
-# Data_Analyst
-Data Analyst Project
 
-<h1 align="center">Hadi Rahman, S.Pd</h1>
 <h3 align="center">Data Analyst | SQL · Python · BI · Machine Learning</h3>
 
 <p align="center">
