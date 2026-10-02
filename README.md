@@ -23,7 +23,7 @@ Currently studying **Data Engineering at Makara UI Academy** (2026).
 | **Programming** | Python (Pandas, NumPy, Scikit-learn, XGBoost, SciPy, Matplotlib, Seaborn), Google Colab |
 | **BI & Dashboard** | Power BI, Tableau, Looker Studio |
 | **Analytics & ML** | RFM Analysis, K-Means, Logistic Regression, XGBoost, Chi-square, t-test, Spearman |
-| **Marketing** | Google Analytics, Meta Ads, TikTok Ads, SEO |
+| **Marketing** | Excel, SQL, Python, Looker studio |
 
 ---
 
@@ -33,9 +33,9 @@ Currently studying **Data Engineering at Makara UI Academy** (2026).
 |---|---|---|---|---|
 | 01 | End-to-End E-Commerce Data Analytics | Excel, BigQuery, Python, Looker Studio | 14.65% cancellation rate traced to checkout issues | [View repo](https://github.com/Hadi-create-project/Ecommerce-Project) |
 | 02 | Customer Segmentation: RFM & K-Means | SQL, BigQuery, Python | 4 customer clusters, VIPs = 14% of customers / 52% of revenue | [View repo](https://github.com/Hadi-create-project/REPLACE-REPO-NAME-02) |
-| 03 | Customer Churn Analysis (Telco) | BigQuery, Python, XGBoost, Power BI | 26.54% churn, model recall 79% | [View repo](https://github.com/Hadi-create-project/REPLACE-REPO-NAME-03) |
-| 04 | Marketing Campaign Analysis | PostgreSQL, Python, Tableau | Recall improved from 15% to 73% | [View repo](https://github.com/Hadi-create-project/REPLACE-REPO-NAME-04) |
-| 05 | Amazon Products Sales Analysis 2023 | BigQuery, Python, Looker Studio | Spearman correlation per category + product segmentation | [View repo](https://github.com/Hadi-create-project/REPLACE-REPO-NAME-05) |
+| 03 | Customer Churn Analysis (Telco) | BigQuery, Python, XGBoost, Power BI | 26.54% churn, model recall 79% | [View repo](https://github.com/Hadi-create-project/Customer_churn) |
+| 04 | Marketing Campaign Analysis | PostgreSQL, Python, Tableau | Recall improved from 15% to 73% | [View repo](https://github.com/Hadi-create-project/Marketing-Analyst) |
+| 05 | Amazon Products Sales Analysis 2023 | BigQuery, Python, Looker Studio | Spearman correlation per category + product segmentation | [View repo](https://github.com/Hadi-create-project/Product-Analyst) |
 
 ---
 
