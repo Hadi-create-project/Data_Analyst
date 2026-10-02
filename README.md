@@ -1,5 +1,5 @@
-
-<h3 align="center">Data Analyst | SQL · Python · BI · Machine Learning</h3>
+<h1 align="center">Hadi Rahman</h1> <h3
+<h3 align="center">Data Analyst | SQL · Python · BI </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hadi-rahman01"><img src="https://img.shields.io/badge/LinkedIn-hadi--rahman01-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
